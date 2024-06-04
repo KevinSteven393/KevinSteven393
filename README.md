@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Steven
-- 👀 I’m interested in Codin
+- 👀 I’m interested in Coding
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on Java
 - 📫 How to reach me kevinsteven393@gmail.com
