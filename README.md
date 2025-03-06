@@ -1,10 +1,10 @@
 - 👋 Hi, I’m Steven
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on Java
+- 🌱 I’m currently learning Java, HTML/CSS, C/C++
+- 💞️ I’m looking to collaborate on any of the languages above
 - 📫 How to reach me kevinsteven393@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I just started learning programming 2 mounths ago 😩 💔 
+- ⚡ Fun fact: I am currently in first year of college 
 
 <!---
 KevinSteven393/KevinSteven393 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
